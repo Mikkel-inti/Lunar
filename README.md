@@ -1,4 +1,4 @@
-# Exercise description
+# Lunar: Exercise description
 
 Draw a flowchart for the following program:
 
